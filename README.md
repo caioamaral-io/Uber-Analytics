@@ -3,7 +3,6 @@
 Este projeto é um **dashboard interativo em Streamlit** que analisa dados de corridas da Uber em Nova Iorque.  
 Com ele, é possível explorar os embarques por hora e visualizar em um mapa os locais onde ocorreram as corridas.  
 
----
 
 ## Funcionalidades  
 
@@ -13,7 +12,6 @@ Com ele, é possível explorar os embarques por hora e visualizar em um mapa os 
 - **Filtro por horário** através de um slider.  
 - **Mapa interativo** exibindo os pontos de embarque em determinado horário.  
 
----
 
 ## Tecnologias utilizadas  
 
@@ -22,7 +20,6 @@ Com ele, é possível explorar os embarques por hora e visualizar em um mapa os 
 - [Pandas](https://pandas.pydata.org/)  
 - [NumPy](https://numpy.org/)  
 
----
 
 ## Como rodar o projeto  
 
@@ -32,7 +29,11 @@ Com ele, é possível explorar os embarques por hora e visualizar em um mapa os 
    cd uber-pickups-dashboard
    streamlit run app.py
 
----
+2. Baixe as bibliotecas necessárias:  
+   ```bash
+   pip install streamlit pandas numpy
 
-## Baixe as bibliotecas necessárias
-- pip install streamlit pandas numpy
+2. Rode o projeto:  
+   ```bash
+   streamlit run app.py
+
