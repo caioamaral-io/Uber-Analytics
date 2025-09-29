@@ -27,7 +27,6 @@ Com ele, é possível explorar os embarques por hora e visualizar em um mapa os 
    ```bash
    git clone https://github.com/caioamaral-io/Uber-Analytics.git
    cd Uber-Analytics
-   streamlit run app.py
 
 2. Baixe as bibliotecas necessárias:  
    ```bash
@@ -36,4 +35,11 @@ Com ele, é possível explorar os embarques por hora e visualizar em um mapa os 
 2. Rode o projeto:  
    ```bash
    streamlit run app.py
+
+
+## Licença
+
+Este projeto está sob a licença **MIT**, uma licença permissiva que permite uso, modificação e distribuição livre do código.  
+Você pode utilizá-lo em projetos pessoais ou comerciais e também contribuir com melhorias.  
+
 
