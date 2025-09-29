@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#1E90FF"  # azul suave para botões e destaques
+backgroundColor = "#FFFFFF"  # fundo branco
+secondaryBackgroundColor = "#F0F2F6"  # fundo de caixas e painéis
+textColor = "#000000"  # texto preto
+font = "sans serif"
