@@ -39,7 +39,6 @@ Com ele, é possível explorar os embarques por hora e visualizar em um mapa os 
 
 ## Licença
 
-Este projeto está sob a licença **MIT**, uma licença permissiva que permite uso, modificação e distribuição livre do código.  
-Você pode utilizá-lo em projetos pessoais ou comerciais e também contribuir com melhorias.  
+Este projeto está sob a licença **MIT**, uma licença permissiva que permite uso, modificação e distribuição livre do código. Você pode utilizá-lo em projetos pessoais ou comerciais e também contribuir com melhorias.  
 
 
