@@ -25,8 +25,8 @@ Com ele, é possível explorar os embarques por hora e visualizar em um mapa os 
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/uber-pickups-dashboard.git
-   cd uber-pickups-dashboard
+   git clone https://github.com/caioamaral-io/Uber-Analytics.git
+   cd Uber-Analytics
    streamlit run app.py
 
 2. Baixe as bibliotecas necessárias:  
